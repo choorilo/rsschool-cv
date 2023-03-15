@@ -10,3 +10,6 @@
 * **GitHub:** [choorilo][1]
 [1]: https://github.com/choorilo
 * **Discord rs-school nickname:** nikita-churilo (@choorilo)
+
+# Summary
+I am currently studying at RS School as a JS/Front-end developer. I love programming, music and coffee. My main strengths are in problem solving and fast learning. I want to gain knowledge and skills that will be enough for employment in the company.
