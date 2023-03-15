@@ -1,6 +1,3 @@
-# [rsschool-cv][def]
-[def]: https://choorilo.github.io/rsschool-cv/cv
-
 # Nikita Churilo
 
 # My Contact Info
