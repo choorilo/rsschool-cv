@@ -47,3 +47,9 @@ I am currently studying at RS School as a JS/Front-end developer. I love program
 # Experience
 
 * [rsschool-cv][def]
+
+# Languages
+
+* Russian
+* Belarussian
+* English
