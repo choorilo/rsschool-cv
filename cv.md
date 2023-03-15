@@ -43,3 +43,7 @@ I am currently studying at RS School as a JS/Front-end developer. I love program
 
 * Novopolskiy State Agricultural Economic Collage, Novoye Pole
    + Information technology software, software engineer
+
+# Experience
+
+* [rsschool-cv][def]
