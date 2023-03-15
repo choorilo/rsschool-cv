@@ -13,3 +13,12 @@
 
 # Summary
 I am currently studying at RS School as a JS/Front-end developer. I love programming, music and coffee. My main strengths are in problem solving and fast learning. I want to gain knowledge and skills that will be enough for employment in the company.
+
+# Skills
+* HTML
+* CSS (basic knowledge)
+* Version control: Git (remote service GitHub)
+* С# (basic knowledge), MS SQL (basic knowledge), Python (basic knowledge)
+* Windows OS
+* Figma (for web development)
+* Editors: Sublime Text, VSCode, PyCharm Community, Visual Studio Community.
